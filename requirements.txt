@@ -5,7 +5,7 @@ Flask==2.3.3
 flask-cors==3.0.10
 gevent==23.9.1
 greenlet==3.0.3
-gunicorn==21.0.1
+gunicorn==22.0.0
 lxml==4.9.4
 markdown2==2.3.6
 psycopg2==2.9.9
